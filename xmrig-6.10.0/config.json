@@ -11,14 +11,14 @@
         "restricted": true
     },
     "autosave": true,
-    "background": true,
+    "background": false,
     "colors": true,
     "title": true,
     "randomx": {
         "init": -1,
         "init-avx2": -1,
         "mode": "auto",
-        "1gb-pages": true,
+        "1gb-pages": false,
         "rdmsr": true,
         "wrmsr": true,
         "cache_qos": false,
